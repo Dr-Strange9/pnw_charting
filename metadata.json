@@ -1,0 +1,6 @@
+{
+  "name": "Neonatal & Postnatal Ward Monitoring Chart",
+  "description": "Clinical neonatal postnatal monitoring chart for tracking patient details, blood groups, hours and days of life, daily weight changes, and feeding volumes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
